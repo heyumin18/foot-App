@@ -1,0 +1,69 @@
+@import "../../lib/widget/yo-dialog";
+@include yo-dialog(
+	$name:a,
+	$height:1.8rem
+){
+	footer button:first-child{
+		background:#ff0!important;
+	}
+	footer button:last-child{
+		background:#ccc!important;
+	}
+}
+
+
+
+
+
+
+
+
+/* 
+	.m-my{
+		@include flexbox();
+		@include flex-direction(column);
+		height:100%;
+		width:100%;
+		background:#EDEDED;
+			header{
+				width:100%;
+				height:.44rem;
+				background:#0cc140;
+					>ul{
+						@include flexbox();
+						width:100%;
+						height:.44rem;
+						position:relative;
+							>li{
+							width:.44rem;
+							height:100%;
+							font-size:.16rem;
+							color:#fff;
+							text-align:center;
+							&.menu{
+								position:absolute;
+								left:0rem;
+								top:.1rem;
+							}
+							&:nth-of-type(2){
+								@include flexbox();
+								@include flex(1);
+								@include justify-content(center);
+								@include align-items(center);
+							}
+							}
+					}
+			}
+			.my-info{
+				width:100%;
+				height:.8rem;
+				color:red;
+					dl{
+						width:100%;
+						height:100%;
+						@include flexbox(flex);
+						@include flex-direction(column);
+					}
+			}	
+	}
+ */

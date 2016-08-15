@@ -1,0 +1,28 @@
+{
+  "ver": "1.0",
+  "ret": true,
+  "errcode": 0,
+  "errmsg": "",
+  "data": [{
+    "img": "/footballApp/images/img1.jpg",
+    "title": "more朴智星:韩国战中国需做好准备 优异战绩是过去式"
+  }, {
+    "img": "/footballApp/images/img2.jpg",
+    "title": "more黄博文杜威微博表决心 卡希尔开心未和国足同组"
+  }, {
+    "img": "/footballApp/images/img3.jpg",
+    "title": "more颜强：国足出线与否不是最重要 态度决定一切"
+  }, {
+    "img": "/footballApp/images/img4.jpg",
+    "title": "more吴曦:渴望12强战出色表现 任航:国足需做好自己"
+  }, {
+    "img": "/footballApp/images/img1.jpg",
+    "title": "more全国瞩目！新闻联播压轴报道12强赛抽签结果"
+  }, {
+    "img": "/footballApp/images/img2.jpg",
+    "title": "more国足与对手全是故事：摧毁性的记忆和佩兰成就者"
+  }, {
+    "img": "/footballApp/images/img3.jpg",
+    "title": "more韩国主帅：战中国队先拿3分 减轻打伊朗时的负担"
+  }]
+}

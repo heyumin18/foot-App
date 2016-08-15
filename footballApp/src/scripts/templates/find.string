@@ -1,0 +1,63 @@
+<div class="m-find">
+	<header>
+		<ul>
+			<li class="yo-ico menu">&#xe63d;</li>
+			<li>发现</li>
+		</ul>
+	</header>
+	<div class="search">
+		<ul>
+			<li>
+				<input type="text" placeholder="请输入昵称">
+			</li>
+			<li>
+				<button>取消</button>
+			</li>
+		</ul>
+	</div>
+	<div class="find_con">
+		<ul>
+			<li>
+				<dl>
+					<dt><img src="/footballApp/images/Pikachu.jpg" alt=""></dt>
+					<dd>
+						<h1>朴智星</h1>
+						<p>朴智星韩国战中国需做好准备</p>
+					</dd>
+				</dl>
+				<div class="btn"><button>关注</button></div>
+			</li>
+			<li>
+				<dl>
+					<dt><img src="/footballApp/images/Pikachu.jpg" alt=""></dt>
+					<dd>
+						<h1>朴智星</h1>
+						<p>朴智星韩国战中国需做好准备</p>
+					</dd>
+				</dl>
+				<div class="btn"><button class="active">关注</button></div>
+			</li>
+			<li>
+				<dl>
+					<dt><img src="/footballApp/images/Pikachu.jpg" alt=""></dt>
+					<dd>
+						<h1>朴智星</h1>
+						<p>朴智星韩国战中国需做好准备</p>
+					</dd>
+				</dl>
+				<div class="btn"><button>关注</button></div>
+			</li>
+			<li>
+				<dl>
+					<dt><img src="/footballApp/images/Pikachu.jpg" alt=""></dt>
+					<dd>
+						<h1>朴智星</h1>
+						<p>朴智星韩国战中国需做好准备</p>
+					</dd>
+				</dl>
+				<div class="btn"><button class="active">关注</button></div>
+			</li>
+		</ul>
+	</div>
+</div>
+

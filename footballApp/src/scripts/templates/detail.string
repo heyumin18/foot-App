@@ -1,0 +1,18 @@
+<div class="detail">
+	<header>
+		<ul>
+			<li action-type="goto.back" class="yo-ico menu">&#xe6c2;</li>
+			<li>内容</li>
+			<li class="yo-ico sm">&#xe63b;</li>
+		</ul>
+	</header>
+	<section ms-visible="!isShowLoading">  
+        <p><img ms-src="imgsrc" alt=""></p>
+        <article>
+           {{description}}
+        </article>
+    </section>
+    <div class="yo-loading" ms-visible="isShowLoading">
+        <div class="inner"><i class="yo-ico"></i></div>
+    </div>
+</div>

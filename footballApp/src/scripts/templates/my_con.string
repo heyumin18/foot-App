@@ -1,0 +1,19 @@
+<div class="m-my">
+	<header>
+		<ul>
+			<li class="yo-ico menu">&#xe63d;</li>
+			<li>个人中心</li>
+		</ul>
+	</header>
+	<div class="my-info">
+		<dl>
+			<dt>
+				<img src="/footballApp/images/Pikachu.jpg" alt="">
+			</dt>
+			<dd>
+				<b>我是小萌</b>
+				<small>我是小萌我怕谁，哈哈哈哈哈！</small>
+			</dd>
+		</dl>
+	</div>
+</div>
