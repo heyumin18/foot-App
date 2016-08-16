@@ -21,3 +21,4 @@ console.log("hello index");
 console.log("hello index ok");
 console.log("hello index error");
 console.log("hello");
+console.log("hello ok error");
