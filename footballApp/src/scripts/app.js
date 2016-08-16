@@ -17,4 +17,6 @@ SPA.config({
 	indexView:"index"
 })
 
-console.log("hello index")
+console.log("hello index");
+console.log("hello index ok");
+console.log("hello index error");
