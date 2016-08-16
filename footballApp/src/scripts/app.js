@@ -14,5 +14,7 @@ require("./views/my_con");
 
 
 SPA.config({
-	indexView:"guide"
+	indexView:"index"
 })
+
+console.log("hello index")
